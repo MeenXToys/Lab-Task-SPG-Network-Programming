@@ -1,0 +1,2 @@
+Hello, this is a file handling task.
+We are learning open, write, read, seek, and tell.

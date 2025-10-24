@@ -1,0 +1,9 @@
+﻿Info: System startup complete
+Error: Disk not found
+Warning: Low battery detected
+Info: Connected to Wi-Fi network
+Error: Network timeout
+Info: User logged in
+Warning: Storage almost full
+Error: Invalid configuration file
+Info: Shutdown sequence initiated

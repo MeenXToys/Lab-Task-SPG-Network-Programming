@@ -1,0 +1,11 @@
+word = input("Enter a word: ")
+
+print("Using for loop:")
+for letter in word:
+    print(letter)
+
+print("Using while loop:")
+index = 0
+while index < len(word):
+    print(word[index])
+    index += 1

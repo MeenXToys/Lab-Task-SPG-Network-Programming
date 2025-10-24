@@ -1,0 +1,19 @@
+START
+	If user choose A
+		Display input details
+		User put input
+		Store it into (studentsdetail.txt)
+	If user choose B
+		Display user details (studentsdetail.txt)
+	If user choose C
+		User put enter Student ID
+		Display details of entered Student ID
+	If user choose D
+Create (studentReport.txt)by compiling all (studentsdetail.txt)
+Display (studentReport.txt)
+If user choose Q
+End the system
+Else
+Display error
+END
+
